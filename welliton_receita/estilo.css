@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+section{
+    background-color: purple;
+}
+
+header{
+	width: 100%;
+}
+
+article{
+    background-color: #fff;
+    width: 60%;
+    padding: 10px;
+    text-align: justify;
+    float: left;
+    clear: both;
+}
+
+iframe{
+    margin: 20px 120px;
+    width:560px;
+    height:315px;
+}
+
+aside{
+	background-color: #fff;
+	width: 30%;
+	float: left;
+}
+
+aside img{
+	width:300px;
+	padding:5% 30%;
+}
+
+h1{
+    color: purple;
+    font-size: 1.5em;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-size: 1em;
+}
+
+img.vovo{
+    width: 300px;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #B03060;
+}
+
+footer{
+    float: left;
+    width: 100%;
+    padding: 20px 0;
+    background-color: purple;
+    text-align: center;
+    color: #fff;
+}
